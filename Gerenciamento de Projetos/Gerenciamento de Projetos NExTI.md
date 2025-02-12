@@ -7,11 +7,9 @@ O Gerenciamento dos projetos Vai ser feito do seguinte formato:
 # Como criar novas Tasks
 
 Entre na pagina do repositório  e vá em Issues
-![[Pasted image 20250211194725.png]]
 
 Clique em `New Issue` 
 
-![[Pasted image 20250211194801.png]]
 
 Nessa pagina deve ser colocado os seguintes dados
 
@@ -29,13 +27,10 @@ Nessa pagina deve ser colocado os seguintes dados
 ## Como selecionar tasks
 
 Na pagina do projeto no canto do meio em `Assigness` clique em `Assign yourself` para a task ser atribuída a você
-![[Pasted image 20250211195708.png]]
+
 
 
 ## Como fazer CodeReview
 
-Clique em `add your review` 
-
-![[Pasted image 20250211204217.png]]
-
+Na pagina do pull request clique em `add your review` 
 Você será levado para uma pagina com todos os arquivos modificados naquele `PullRequest` analise e compreenda o código do seu colega, de sua opinião se achar algum problema.

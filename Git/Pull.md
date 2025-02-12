@@ -49,12 +49,13 @@ Se isso acontecer, o Git marcará os arquivos conflitantes. Você verá algo com
 
 Você precisará abrir os arquivos conflitantes e resolver os conflitos manualmente. O Git marcará as seções conflitantes com:
 
-
+```
 	<<<<<<< HEAD
 	Sua versão local
 	=======
 	Versão do repositório remoto
 	>>>>>>> branch-remota
+```
 
 Depois de resolver os conflitos, adicione os arquivos resolvidos:
 
