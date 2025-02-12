@@ -26,7 +26,7 @@ Nessa pagina deve ser colocado os seguintes dados
 
 ## Como selecionar tasks
 
-Na pagina do projeto no canto do meio em `Assigness` clique em `Assign yourself` para a task ser atribuída a você
+Na pagina do projeto no canto direito em `Assigness` clique em `Assign yourself` para a task ser atribuída a você
 
 
 
