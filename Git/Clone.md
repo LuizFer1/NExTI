@@ -5,11 +5,11 @@ Clonar um repositório é uma tarefa simples, mas requer alguns passos para gara
 Antes de tudo, você precisa obter o link do repositório que deseja clonar.
 
 - **Passo 1:** Acesse a página do repositório no GitHub (ou outra plataforma de hospedagem de código).
-![[Pasted image 20250211190907.png]]
+![Texto alternativo](../Pasted image 20250211190907.png)
 - **Passo 2:** Na página do repositório, clique no botão **"Code"**.
-![[Pasted image 20250211185643.png]]
+![](../Pasted image 20250211185643.png)
 - **Passo 3:** Copie o link SSH ou HTTPS fornecido. Para usar SSH (o recomendado para autenticação segura), o link geralmente se parecerá com este: 
-![[Pasted image 20250211185723.png]]
+![](../Pasted image 20250211185723.png)
 - `git@github.com:SEU-USERNAME/SEU-PROJETO.git`.
 
 Se você ainda não configurou sua chave SSH, veja a seção abaixo.
